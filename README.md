@@ -13,4 +13,4 @@ pnpm install # npm install
 pnpm prisma db push # npx prisma db push
 ```
 
-Now you can create users in signup and login after that. Remember this is just the bare minimum to get starting. You **MUST** secure your database with better credentials. 
+Now you can create users in http://localhost:3000/signup and http://localhost:3000/signup after that. Remember this is just the bare minimum to get starting. You **MUST** secure your database with better credentials. 
